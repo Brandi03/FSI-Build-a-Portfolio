@@ -1,3 +1,7 @@
 body { 
     background-color: rgb(91, 213, 238);
  }
+ img {
+    border-style: dotted;
+    border-radius: thick;
+ }
