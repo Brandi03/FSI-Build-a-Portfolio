@@ -1,10 +1,12 @@
 body { 
     background-color: rgb(91, 213, 238);
-    text-align: center;
- }
+    text-align: center; 
+    cursor: grab; }
+
  img {
-    border-style: dotted;
-    border-radius: thick; 
-}
-    
- 
+     border-style: dotted;
+    border-radius: thick; }
+
+.p {
+    font-family: "Lucida Console", "Courier New", monospace; }
+
