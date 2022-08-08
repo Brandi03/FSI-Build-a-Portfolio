@@ -5,7 +5,8 @@ body {
 
  img {
      border-style: dotted;
-    border-radius: thick; }
+    border-radius: thick;
+    color: rgb(249, 21, 135)}
 
 .p {
     font-family: "Lucida Console", "Courier New", monospace; }
