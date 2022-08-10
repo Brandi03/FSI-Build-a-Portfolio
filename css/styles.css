@@ -7,7 +7,7 @@ body {
  img {
      border-style: dotted;
     border-radius: thick;
-    color: rgb(249, 21, 135)
+    color: rgb(211, 18, 114)
 }
 
 p {
@@ -21,4 +21,5 @@ ul {
 
 span {
     font-style: italic;
+    font-weight: bolder;
 }
