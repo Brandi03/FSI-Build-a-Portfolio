@@ -4,17 +4,17 @@ body {
     cursor: grab; 
 }
 
-img {
-     border-style: dotted;
-    border-radius: thick;
-    color: rgb(211, 18, 114)
+.image-border {
+    border-style: dotted;
+    border-radius: 50%;
+    color: rgb(216, 42, 141)
 }
 
 p {
     font-family: "Lucida Console", "Courier New", monospace; 
 }
 
-ul {
+.list-align {
     text-align: center;
     list-style-position: inside;
 }
@@ -25,15 +25,19 @@ ul {
 }
 
 .hr {
-    border-color:rgb(13, 35, 158);
+    border-color:rgb(13, 34, 158);
     border-width: .2in
 }
 
 .bubble {
      border-style: groove;
-     background-color: rgb(237, 66, 157);
-     border-radius: 40px;
+     background-color: rgb(13, 34, 158);
+     border-radius: 20px;
      border-color: ghostwhite;
      padding: 25px;
-     margin: 10px 225px
+     margin: 10px 350px
+}
+
+.red-text {
+      color: red;
 }
