@@ -4,7 +4,7 @@ body {
     cursor: grab; 
 }
 
- img {
+img {
      border-style: dotted;
     border-radius: thick;
     color: rgb(211, 18, 114)
@@ -19,7 +19,7 @@ ul {
     list-style-position: inside;
 }
 
-span {
+.text {
     font-style: italic;
     font-weight: bolder;
 }
