@@ -26,5 +26,14 @@ ul {
 
 .hr {
     border-color:rgb(13, 35, 158);
-    border-width: 1in
+    border-width: .2in
+}
+
+.bubble {
+     border-style: groove;
+     background-color: rgb(237, 66, 157);
+     border-radius: 40px;
+     border-color: ghostwhite;
+     padding: 25px;
+     margin: 10px 225px
 }
