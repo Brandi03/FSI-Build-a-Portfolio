@@ -24,6 +24,7 @@ ul {
     font-weight: bolder;
 }
 
-.colorblue {
-    color:rgb(13, 35, 158)
+.hr {
+    border-color:rgb(13, 35, 158);
+    border-width: 1in
 }
